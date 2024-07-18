@@ -1,14 +1,13 @@
 #pragma once
 #include <iostream>
-#include <ctime>
 #include <deque>
 #include <vector>
 #include <string>
 #include <chrono>
-#include <memory>
 #include <unordered_map>
 #include <map>
 #include <thread>
+
 namespace bank {
 
 	class Client {
